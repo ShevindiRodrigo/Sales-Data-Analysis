@@ -200,3 +200,4 @@ Output:
 The DELETE statement conflicted with the REFERENCE constraint "FK__FactSale__Staff___5DCAEF64". The conflict occurred in the database "Sales_BIA", table "dbo.FactSale", column 'Staff_Key'.
 
 *Note: The above code snippets demonstrate the anomalies and their corresponding outputs.*
+##### [Back HOME -->](https://github.com/ShevindiRodrigo/Sales-Data-Analysis/blob/main/README.md)
