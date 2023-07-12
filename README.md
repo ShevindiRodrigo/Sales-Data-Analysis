@@ -55,7 +55,7 @@ Please note that the provided evidence is a specific example, and further querie
 ### [Data Load Process](https://github.com/ShevindiRodrigo/Sales-Data-Analysis/blob/main/ETL%20process.md)
 The ETL/ELT process was executed to load the data into the Sales DataMart. This involved extracting the raw sales data, transforming it to match the desired structure, and loading it into the appropriate tables within the DataMart. Quality Assurance processes were performed to ensure data cleanliness and consistency.
 
-### [Output of Analysis](https://github.com/ShevindiRodrigo/Sales-Data-Analysis/blob/main/ETL%20process.md)
+### [Output of Analysis](https://github.com/ShevindiRodrigo/Sales-Data-Analysis/blob/main/Output%20of%20Analysis.md)
 SQL scripts and queries were utilized to perform the analysis on the sales data. The following metrics and insights were obtained:
 
 1. Total receipts or transactions made
@@ -68,4 +68,4 @@ The analysis involved aggregating and summarizing the data to identify sales tre
 
 (Include relevant SQL scripts/queries and analysis findings here)
 
-### [Business Recommendations](https://github.com/ShevindiRodrigo/Sales-Data-Analysis/blob/main/ETL%20process.md)
+### [Business Recommendations](https://github.com/ShevindiRodrigo/Sales-Data-Analysis/blob/main/Sales%20recommendation.md)
