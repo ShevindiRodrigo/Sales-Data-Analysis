@@ -52,10 +52,10 @@ By executing this query against the datamart, we can verify if the design accura
 
 Please note that the provided evidence is a specific example, and further queries and analyses can be performed to validate the functionality of the entire datamart design.
 
-### Data Load Process
+### [Data Load Process](https://github.com/ShevindiRodrigo/Sales-Data-Analysis/blob/main/ETL%20process.md)
 The ETL/ELT process was executed to load the data into the Sales DataMart. This involved extracting the raw sales data, transforming it to match the desired structure, and loading it into the appropriate tables within the DataMart. Quality Assurance processes were performed to ensure data cleanliness and consistency.
 
-### Output of Analysis
+### [Output of Analysis](https://github.com/ShevindiRodrigo/Sales-Data-Analysis/blob/main/ETL%20process.md)
 SQL scripts and queries were utilized to perform the analysis on the sales data. The following metrics and insights were obtained:
 
 1. Total receipts or transactions made
@@ -68,4 +68,4 @@ The analysis involved aggregating and summarizing the data to identify sales tre
 
 (Include relevant SQL scripts/queries and analysis findings here)
 
-### Business Recommendations
+### [Business Recommendations](https://github.com/ShevindiRodrigo/Sales-Data-Analysis/blob/main/ETL%20process.md)
