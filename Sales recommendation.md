@@ -58,6 +58,9 @@ Sales analysis provides valuable insights into a company's sales activities, per
    - Offer deals and discounts to increase sales of low-performing items.
 
 4. Customer Behavior Analysis:
+   Can examine each customer's behavior for each month using the report on churned customers. This might be useful for spotting problematic patterns in the sales process and addressing them. And can start up more advantageous discount programs and offers to get the customers' interest again.
+
+##### [Back HOME -->](https://github.com/ShevindiRodrigo/Sales-Data-Analysis/blob/main/README.md)
    - Analyze churned customers' behavior to identify any problematic patterns in the sales process.
    - Implement targeted strategies, such as discount programs or special offers, to regain the interest of churned customers and increase their engagement with the company.
 
