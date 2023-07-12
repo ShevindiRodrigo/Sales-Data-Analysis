@@ -17,7 +17,7 @@ in order to create a database, so that we can find solutions for the best-perfor
 ## Content
 #### Data Model
   Designed a “Sales” Star DataMart to store the information in a format that will allow the information to be expanded and one that would enable analysis to occur.
-  1. Sales- Star schema datamart design
+  1. Sales- Star schema data mart design
   2. Datamart design
   3. Design Rationale
 #### Data Load Process undertaken
