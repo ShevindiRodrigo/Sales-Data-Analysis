@@ -11,7 +11,7 @@ FROM FactSale f, DimStaff s
 WHERE f.Staff_Key = s.Staff_Key
 GROUP BY f.Staff_Key, s.Staff_ID;
 ```
-
+![](
 This query provides insights into the total number of transactions made by each salesperson.
 
 2. Number of transactions or receipts issued each month:
@@ -95,6 +95,7 @@ ORDER BY Month, Year, Item_Count DESC;
 ```
 
 This query provides a breakdown of the number of items sold by each staff member on a monthly basis.
+![]()
 
 5. Revenue made from each salesperson:
 To determine the revenue made by each salesperson, the following query was executed:
