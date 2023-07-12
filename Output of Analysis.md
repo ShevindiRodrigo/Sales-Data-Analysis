@@ -11,7 +11,7 @@ FROM FactSale f, DimStaff s
 WHERE f.Staff_Key = s.Staff_Key
 GROUP BY f.Staff_Key, s.Staff_ID;
 ```
-![](
+![](https://github.com/ShevindiRodrigo/Sales-Data-Analysis/blob/main/Screenshots/Picture12.png)
 This query provides insights into the total number of transactions made by each salesperson.
 
 2. Number of transactions or receipts issued each month:
@@ -40,6 +40,7 @@ GROUP BY Month, Year, Staff_Id;
 ```
 
 This query provides a breakdown of the number of transactions issued by each staff member on a monthly basis.
+![](https://github.com/ShevindiRodrigo/Sales-Data-Analysis/blob/main/Screenshots/Picture21.png)
 
 3. Number of transactions or receipts issued each quarter:
 To analyze the number of transactions or receipts issued by each staff member on a quarterly basis, the following query was executed:
@@ -67,6 +68,7 @@ GROUP BY Quarter, Year, Staff_Id;
 ```
 
 This query provides a breakdown of the number of transactions issued by each staff member on a quarterly basis.
+![](https://github.com/ShevindiRodrigo/Sales-Data-Analysis/blob/main/Screenshots/Picture3.png)
 
 4. Items sold each month:
 To analyze the number of items sold by each staff member on a monthly basis, the following query was executed:
@@ -95,7 +97,7 @@ ORDER BY Month, Year, Item_Count DESC;
 ```
 
 This query provides a breakdown of the number of items sold by each staff member on a monthly basis.
-![]()
+![](https://github.com/ShevindiRodrigo/Sales-Data-Analysis/blob/main/Screenshots/Picture4.png)
 
 5. Revenue made from each salesperson:
 To determine the revenue made by each salesperson, the following query was executed:
