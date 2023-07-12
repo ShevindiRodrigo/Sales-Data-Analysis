@@ -22,7 +22,7 @@ BIA Inc. is a leading sales company in Australia with branches and offices natio
 A "Sales" Star DataMart was designed to store the sales data in a format that allows for scalability and analysis.
 
 #### Sales - Star Schema Data Mart Design
-(Data mart design diagram)
+(Data mart design diagram)[https://github.com/ShevindiRodrigo/Sales-Data-Analysis/blob/main/Screenshots/Picture1.png]
 
 ### Design Rationale
 The chosen data model and data mart design aim to facilitate data analysis and expansion of information. The star schema structure provides a centralized fact table (e.g., "FactSales") linked to dimension tables (e.g., "DimDate," "DimCustomer," "DimStaff," "DimItem") for efficient analysis and querying.
