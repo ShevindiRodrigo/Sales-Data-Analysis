@@ -71,3 +71,4 @@ The analysis involved aggregating and summarizing the data to identify sales tre
 ### [Business Recommendations](https://github.com/ShevindiRodrigo/Sales-Data-Analysis/blob/main/Sales%20recommendation.md)
 
 ### Dashboard
+![](https://github.com/ShevindiRodrigo/Sales-Data-Analysis/blob/main/Screenshots/dashboard.png)
