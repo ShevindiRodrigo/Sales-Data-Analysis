@@ -40,11 +40,12 @@ By leveraging the data mart with the Star schema design, businesses can quickly 
 
 To demonstrate the functional correctness of the designed datamart and Star schema, we can provide evidence in the form of a SQL query that retrieves the names and IDs of customers who are eligible for a 12.5% discount. Here's the SQL query:
 
-sql
+```sql
 SELECT DISTINCT c.Customer_ID, CONCAT(c.Customer_First_Name, ' ', c.Customer_Surname) AS Customer_Name
 FROM FactSale f
 JOIN DimCustomer c ON f.Customer_Key = c.Cust_Key
 WHERE f.Discount_status = 'Yes';
+```
 This query retrieves distinct customer IDs and their corresponding full names from the FactSale and DimCustomer tables. It ensures that only customers with a discount status of 'Yes' are included in the result.
 
 By executing this query against the datamart, we can verify if the design accurately captures and stores the necessary information to identify eligible customers for the 12.5% discount. The result of the query will provide a list of customer names and IDs who meet the discount criteria, demonstrating that the datamart and Star schema design are functionally correct.
