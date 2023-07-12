@@ -17,6 +17,9 @@ in order to create a database, so that we can find solutions for the best-perfor
 ## Content
 #### Data Model
   Designed a “Sales” Star DataMart to store the information in a format that will allow the information to be expanded and one that would enable analysis to occur.
+  1. Sales- Star schema datamart design
+  2. Datamart design
+  3. Design Rationale
 #### Data Load Process undertaken
   Overview of the ETL/ELT process completed and Quality Assurance processes that undertook as part of this., eg cleaning data and what inconsistencies in the data were found. The QA would be in the form of the QA applied with a SQL script that supports each QA step applied (e.g., checking for missing data).
 #### Output of Analysis (including the SQL scripts/queries used)
