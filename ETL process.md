@@ -1,5 +1,3 @@
-Sure! Here's the provided information transformed into a markdown (.md) file format:
-
 ## ETL Process
 
 The data integration process known as ETL, or extract, transform, and load, merges data from several data sources into a single, consistent data store that is loaded into a datamart. ETL is a procedure for integrating and loading data for computation and analysis. It is the main way to process data for data warehousing projects.
@@ -202,5 +200,3 @@ Output:
 The DELETE statement conflicted with the REFERENCE constraint "FK__FactSale__Staff___5DCAEF64". The conflict occurred in the database "Sales_BIA", table "dbo.FactSale", column 'Staff_Key'.
 
 *Note: The above code snippets demonstrate the anomalies and their corresponding outputs.*
-
-Please note that the provided information has been transformed into a markdown format, which is more suitable for documentation purposes.
